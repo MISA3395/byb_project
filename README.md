@@ -12,7 +12,7 @@ This project is a Hyperion Dev task, which certifies that the repository has bee
 You need the following item to install.
 * [VS code](https://code.visualstudio.com/)
 
-## Installation
+## Installation 
  
 How to install the project.
 
