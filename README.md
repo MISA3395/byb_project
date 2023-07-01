@@ -1,12 +1,11 @@
 # byb_project
 
-This project is to try creat a repository.
+This project is a Hyperion Dev task, which certifies that the repository has been created.
 
 ## Table of contents
 1. Requirement - Items required to install this project
 2. Installation - How to install the project.
-3. Demo - How to use the project after they’ve installed it.
-4. Authors - The creator of this project.
+3. Authors - The creator of this project.
 
 ## Requirement
 
